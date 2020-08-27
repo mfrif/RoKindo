@@ -1,0 +1,38 @@
+{
+  "name": "RoKindo",
+  "short_name": "RoKindo",
+  "start_url": "https://www.rokindo.site/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Daily Blog Player Rise of Kingdoms Indonesia.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HGV4_hlwC8A/X0d4Jiu-UnI/AAAAAAAAAJs/a8hczjPNKjoCY5hIfA63PeHM3X3oOxKtgCLcBGAsYHQ/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-spp2MaS5pek/X0d4KDy4KtI/AAAAAAAAAJw/jChovMvywXcw_O5MBwGXtYvNgsxf6hADgCLcBGAsYHQ/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7rJXAypXuz0/X0d4Kf8qDMI/AAAAAAAAAJ0/fT7gBIgJYbYHc2wLDgOU5KG-2Y4g9FTuQCLcBGAsYHQ/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-_M32JyqFp7Q/X0d4JZM8bKI/AAAAAAAAAJk/nY0vxytBx8Uc48hh1F0jToohV6qFJq-eACLcBGAsYHQ/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-x4iPUfRADmo/X0d4KljiC8I/AAAAAAAAAJ4/oAbWP4AemWM6ri3aMdCxG2pCQjvJ-HzVACLcBGAsYHQ/s152/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-DqNVWDCVlw0/X0d4JcZmG3I/AAAAAAAAAJo/_IkT6lj-MvgWFrAt3KSBfQEjRRsL6uoPgCLcBGAsYHQ/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-dPirxg5L_mg/X0d4Vh7HXYI/AAAAAAAAAJ8/zrt4PxwOcI49hhULrTl__Fx6gDrQuWb9wCLcBGAsYHQ/s512/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
